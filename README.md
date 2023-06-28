@@ -6,7 +6,9 @@ The player then needs to select the first and second colors in sequence, etc.
 This code uses jquery and is pretty similar to the final soloution presented by the instructor. I ended up breaking the code down into some additional
 functions to improve readability. 
 
+---
 
+Demo the game here: [Simon Says](https://sentientcyborg.github.io/Simon-Memory-Game/)
 
 ---
 The assignment can be found in Section 20 of the following course:
